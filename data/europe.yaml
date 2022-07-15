@@ -650,12 +650,14 @@
   type: company
   lat: 51.6418932
   long: -0.4662761
+  description: United Robots is a technology company operating in the robotics and artificial intelligence industry. We develop intelligent autonomous devices that are designed to address the key problems facing service providers operating in vast public areas. UR robots have the ability to evaluate their surroundings and make informed decisions regarding navigation, mapping & task execution. In the framework of software development, we use ROS & ROS2 platform.
   address: 1 Park Road Rickmansworth WD3 1RE, London, United Kingdom
   link: http://www.unitedrobots.co/
 - name: United Robots R&D Office
   type: company
   lat: 52.22318855
   long: 20.95927374806449
+  description: United Robots is a technology company operating in the robotics and artificial intelligence industry. We develop intelligent autonomous devices that are designed to address the key problems facing service providers operating in vast public areas. UR robots have the ability to evaluate their surroundings and make informed decisions regarding navigation, mapping & task execution. In the framework of software development, we use ROS & ROS2 platform.
   address: Aleja Prymasa Tysiąclecia 46, 01-242 Warsaw, Poland
   link: http://www.unitedrobots.co/
 - name: Universidad de Almeria
